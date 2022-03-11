@@ -22,7 +22,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: #76a500
+  color: #76a500;
 }
 
 a:hover,
